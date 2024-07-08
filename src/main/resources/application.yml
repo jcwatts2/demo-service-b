@@ -1,0 +1,8 @@
+server:
+  port: ${SERVER_PORT}
+  servlet:
+    context-path: /
+
+service:
+  b:
+    message: ${MESSAGE_B}
